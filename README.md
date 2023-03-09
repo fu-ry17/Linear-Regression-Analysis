@@ -1,3 +1,3 @@
 # Linear-Regression-Analysis
 
-Find All the code withe read me in their respective folders
+Find All the code with read me files in their respective folders
